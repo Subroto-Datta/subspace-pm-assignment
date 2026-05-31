@@ -6,7 +6,7 @@
 ## 🚀 Live Submission
 
 🌐 View Interactive Teardown:
-https://subroto-datta.github.io/subspace-teardown/
+[subspace-pm-assignment](https://subroto-datta.github.io/subspace-pm-assignment/)
 
 ---
 
