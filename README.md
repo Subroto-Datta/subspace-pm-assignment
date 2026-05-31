@@ -23,7 +23,7 @@ graph TD
 
 | Filename | Description | Formats & Access |
 | :--- | :--- | :--- |
-| 🌐 **[subspace_teardown.html](file:///P:/subspace/subspace_teardown.html)** | **Interactive Presentation Web App**. Highly animated single-file HTML product teardown deck with dark/light themes, custom scrolling, cursor follow, accordion rows, and filterable priority grids. | Open directly in any modern desktop or mobile browser. Self-contained, zero-dependency. |
+| 🌐 **[index.html](file:///P:/subspace/index.html)** | **Interactive Presentation Web App**. Highly animated single-file HTML product teardown deck with dark/light themes, custom scrolling, cursor follow, accordion rows, and filterable priority grids. | Open directly in any modern desktop or mobile browser. Self-contained, zero-dependency. |
 | 📄 **[Subspace_ProductTeardown.pdf](file:///P:/subspace/Subspace_ProductTeardown.pdf)** | **Executive Document Teardown**. Reformatted, publication-ready PDF report covering the core strategies, landscape comparison, and feedbacks. | PDF Document Viewer / Print Layout. |
 | 📸 **[og_app_screenshots/](file:///P:/subspace/og_app_screenshots/)** | **Raw Research Evidence**. A curated folder containing 9 high-resolution screenshots captured across onboarding, home, explore, wallet, chat, and profile menus during active app testing. | JPEG images. |
 
