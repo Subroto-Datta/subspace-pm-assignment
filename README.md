@@ -1,6 +1,6 @@
 # 🚀 Subspace.money — Product Teardown
 ### **Candidate Submission for Product Intern Role**
-**Candidate:** Subroto Datta · CTO, IETE KJSIT · B.Tech IT (AI/ML Honors) · KJSIT, Mumbai
+**Candidate:** Subroto Datta · B.Tech IT (AI/ML Honors) · KJSIT, Mumbai
 **Date:** May 31, 2026
 
 ---
@@ -13,13 +13,6 @@ graph TD
     A[Subspace Teardown Submission] --> B[🌐 Interactive Web Application]
     A --> C[📄 Executive PDF Document]
     A --> D[📸 High-Res Research Evidence]
-
-    B --> B1[Dark/Light Theme Engine]
-    B --> B2[Off-Canvas Hamburger Menu]
-    B --> B3[Smooth Custom Cursor]
-    B --> B4[Smooth Slide-in Accordions]
-    B --> B5[8-Card Prioritisation Grid]
-
     D --> D1[9 App Journey Screenshots]
 ```
 
@@ -93,7 +86,7 @@ The website `subspace_teardown.html` is custom-built with high-fidelity front-en
 ---
 
 ## 📬 Contact & Portfolio Links
-* **Email:** [subroto.d@somaiya.edu](mailto:subroto.d@somaiya.edu)
+* **Email:** [subrotodatta.kjsit@gmail.com](mailto:subrotodatta.kjsit@gmail.com)
 * **Phone:** +91 8828543890
 * **LinkedIn:** [linkedin.com/in/subroto-datta-862632270](https://linkedin.com/in/subroto-datta-862632270)
 * **GitHub:** [github.com/Subroto-Datta](https://github.com/Subroto-Datta)
