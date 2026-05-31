@@ -6,7 +6,7 @@
 ## 🚀 Live Submission
 
 🌐 View Interactive Teardown:
-https://subroto-datta.github.io/subspace-teardown/**View Submission** : 
+https://subroto-datta.github.io/subspace-teardown/
 
 ---
 
