@@ -3,7 +3,11 @@
 **Candidate:** Subroto Datta · B.Tech IT (AI/ML Honors) · KJSIT, Mumbai
 **Date:** May 31, 2026
 
-**View Submission** : 
+## 🚀 Live Submission
+
+🌐 View Interactive Teardown:
+https://subroto-datta.github.io/subspace-teardown/**View Submission** : 
+
 ---
 
 ## 💎 The Submission at a Glance
